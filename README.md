@@ -13,6 +13,8 @@ The MNIST Dataset is used to train and test the model. The MNIST database (Modif
 <img width="334" alt="image" src="https://github.com/AishwaryaKoushik/Handwritten-Digit-Recognition/assets/161193220/6dff403d-aa40-44ef-b9e1-f62751101fb5">
 
 
+
+
 **Models Used**
 
 
