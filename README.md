@@ -21,10 +21,23 @@ Three different models are used to analyze and classify the above dataset
   2. k-Nearest Neighbors
   3. Random Forest Classifier
 
+
+
 **Results**
+
+
 An index from 0 to 255 is specified. The corresponding MNIST image from the dataset is displayed. The algorithm displays the classified digit.
 
 <img width="267" alt="image" src="https://github.com/AishwaryaKoushik/Handwritten-Digit-Recognition/assets/161193220/382a6a7e-b3fd-4a89-8368-61ba5ca63ab9">
+
+
+
+The accuracy of the k-NN classifier is obtained using a heat map. The predicted label is plotted against the actual label. From the heat map, it can be seen that the accuracy of the algorithm is 96.66%.
+
+
+
+![image](https://github.com/AishwaryaKoushik/Handwritten-Digit-Recognition/assets/161193220/2cf733ef-5386-4e7e-8401-8f2f9198a597)
+
 
 
 
