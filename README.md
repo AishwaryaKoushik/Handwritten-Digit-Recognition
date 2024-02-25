@@ -23,7 +23,9 @@ Three different models are used to analyze and classify the above dataset
 
 **Results**
 An index from 0 to 255 is specified. The corresponding MNIST image from the dataset is displayed. The algorithm displays the classified digit.
-<img width="1421" alt="image" src="https://github.com/AishwaryaKoushik/Handwritten-Digit-Recognition/assets/161193220/144f23d8-1ae7-4550-af06-baca3165aee8">
+
+<img width="267" alt="image" src="https://github.com/AishwaryaKoushik/Handwritten-Digit-Recognition/assets/161193220/382a6a7e-b3fd-4a89-8368-61ba5ca63ab9">
+
 
 
 
